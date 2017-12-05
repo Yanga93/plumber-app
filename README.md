@@ -1,16 +1,15 @@
-# Node.js Loginapp
+# Plumber Availability App - Innogy challenge
 
-This is a user login and registration app using Node.js, Express, Passport and Mongoose. It is part of the YouTube series [here](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+This app allows a plumber to register or login with the correct credentials   
 
 ### Version
-1.1.0
+9.2.o
 
 ### Usage
-
+As a plumber you should be able to create available times for bookings and update them.
+And clients be able to see times a plumber is available on and book it.
 
 ### Installation
-
-Loginapp requires [Node.js](https://nodejs.org/) v4+ to run.
 
 ```sh
 $ npm install
