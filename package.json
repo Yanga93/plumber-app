@@ -1,0 +1,35 @@
+{
+  "name": "plumber-app",
+  "version": "1.0.0",
+  "description": "Plumber app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yanga93/plumber-app.git"
+  },
+  "author": "Yanga Zukelwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yanga93/plumber-app/issues"
+  },
+  "homepage": "https://github.com/Yanga93/plumber-app#readme",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validation": "^1.0.2",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  }
+}
