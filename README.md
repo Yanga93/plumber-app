@@ -10,7 +10,7 @@ It should also allow users to book registered plumbers for a morning, midday or 
 You are able to register as a plumber and login back to the system with correct credentials others will return error message and the data is stored on mongoDB to remember the existing users.
 
 
-### What the application is not working
+### What the application is not doing
 
 Plumber is unable to select days available on and the times for day.
 
